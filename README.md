@@ -12,10 +12,27 @@
 
 <hr>
 
+## Quotes includes
+
+	• Inspirational Quotes
+	• Business Quotes
+	• Happy Quotes
+	• Success Quotes
+	• Love Quotes
+	• Life Quotes
+	• Wisdom Quotes
+	• Attitude Quotes
+	• Quotes on Psychology
+	• Positive Quotes
+	• Kind Quotes
+	• Motivational Quotes
+	• Creativity Quotes
+	• Sports Quotes
+
 ## Join Our X (Twitter) Community
 
 <p align="center">
-  <a href="https://x.com/careerdost">
-	<img src="https://www.flaticon.com/media/dist/min/img/twitter.png" width="60px" height="60px" alt="Join us on X" />
-  </a>
+	<a href="https://x.com/careerdost">
+		<img src="github.com/Careerdost/DailyInspirationalQuotes/blob/main/android/images/twitter.png" width="60px" height="60px" alt="Join us on X" />
+	</a>
 </p>
