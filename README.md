@@ -6,6 +6,16 @@
 
 <p align="center">
 	<a href='https://play.google.com/store/apps/details?id=careerdost.inspirational.quotes'>
-	<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="100px" />
+		<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="100px" alt="Get it on Google Play" />
 	</a>
+</p>
+
+<hr>
+
+## Join Our X (Twitter) Community
+
+<p align="center">
+  <a href="https://x.com/careerdost">
+	<img src="https://www.flaticon.com/media/dist/min/img/twitter.png" width=60 height="60px" alt="Join us on X" />
+  </a>
 </p>
