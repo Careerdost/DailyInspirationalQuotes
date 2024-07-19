@@ -1,3 +1,3 @@
 <p align="center"> 
-	<img src="https://github.com/Careerdost/DailyInspirationalQuotes/blob/main/android/images/inspiration-quotes-logo.webp" width=220 height=220>
+	<img src="https://github.com/Careerdost/DailyInspirationalQuotes/blob/main/android/images/icon.png" width=160 height=160>
 </p>
