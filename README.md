@@ -31,7 +31,7 @@
 
 ## Join Our X (Twitter) Community
 
-<p align="center">
+<p align="left">
 	<a href="https://x.com/careerdost">
 		<img src="https://github.com/Careerdost/DailyInspirationalQuotes/blob/main/android/images/twitter.png" width="60px" height="60px" alt="Join us on X" />
 	</a>
