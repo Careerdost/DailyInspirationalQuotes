@@ -12,7 +12,7 @@
 
 <hr>
 
-## Quotes includes
+## Quote Categories include
 
 	• Inspirational Quotes
 	• Business Quotes
@@ -33,6 +33,6 @@
 
 <p align="center">
 	<a href="https://x.com/careerdost">
-		<img src="github.com/Careerdost/DailyInspirationalQuotes/blob/main/android/images/twitter.png" width="60px" height="60px" alt="Join us on X" />
+		<img src="https://github.com/Careerdost/DailyInspirationalQuotes/blob/main/android/images/twitter.png" width="60px" height="60px" alt="Join us on X" />
 	</a>
 </p>
