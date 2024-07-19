@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Careerdost/DailyInspirationalQuotes/blob/main/android/images/icon.png" width=220 height=220></p>
+<p align="center"><img src="https://github.com/Careerdost/DailyInspirationalQuotes/blob/main/android/images/icon.png" width="220px" height="220px"></p>
 
 <h1 align="center">Daily Inspirational Quotes</h1>
 
@@ -16,6 +16,6 @@
 
 <p align="center">
   <a href="https://x.com/careerdost">
-	<img src="https://www.flaticon.com/media/dist/min/img/twitter.png" width=60 height="60px" alt="Join us on X" />
+	<img src="https://www.flaticon.com/media/dist/min/img/twitter.png" width="60px" height="60px" alt="Join us on X" />
   </a>
 </p>
